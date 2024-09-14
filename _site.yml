@@ -16,7 +16,12 @@ output_dir: "."
 output:
   html_document:
     theme: united
-    highlight: textmate
-    toc: false
-    toc_float: false
+    highlight: zenburn
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    fig_width: 10
+    fig_height: 9
+    fig_caption: true
+
 
