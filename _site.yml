@@ -8,3 +8,9 @@ navbar:
     - text: "Mirza"
       href: mirza.html
 output_dir: "."
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    toc: true
+    toc_float: true
