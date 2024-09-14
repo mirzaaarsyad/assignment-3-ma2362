@@ -1,4 +1,4 @@
-output_dir: "."
+name: "our-website"
 navbar:
   left:
     - text: "Home"
@@ -7,3 +7,4 @@ navbar:
       href: grace.html
     - text: "Mirza"
       href: mirza.html
+output_dir: "."
