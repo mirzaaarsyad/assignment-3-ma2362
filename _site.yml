@@ -3,6 +3,11 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+      menu:
+        - text: "Grace"
+          href: grace.html
+        - text: "Mirza"
+          href: mirza.html
     - text: "Grace"
       href: grace.html
     - text: "Mirza"
@@ -14,3 +19,4 @@ output:
     highlight: textmate
     toc: true
     toc_float: true
+
